@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a0e587b-83db-4f3f-99b4-7f611550cf36" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Terrain/MapGenerator.cs.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Terrain/MapDisplay.cs.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Terrain/Noise.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Terrain/Noise.cs.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Terrain/MapDisplay.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Terrain/MapGenerator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Terrain.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Terrain/MeshGenerator.cs.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Terrain/MeshGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Player/Fr/autoDestruction.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Editor/MapGeneratorEditor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Terrain/TextureGenerator.cs.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Terrain/TextureGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Player/Player.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Player/PlayerMovement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Terrain/EndlessTerrain.cs.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Terrain/EndlessTerrain.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Terrain/MapDisplay.cs" />
+        <option value="$PROJECT_DIR$/Terrain/TextureGenerator.cs" />
+        <option value="$PROJECT_DIR$/Editor/MapGeneratorEditor.cs" />
+        <option value="$PROJECT_DIR$/Terrain/MeshGenerator.cs" />
+        <option value="$PROJECT_DIR$/Terrain/MapGenerator.cs" />
+        <option value="$PROJECT_DIR$/Terrain/EndlessTerrain.cs" />
+        <option value="$PROJECT_DIR$/Player/Fr/enemyAi.cs" />
+        <option value="$PROJECT_DIR$/Player/Fr/spellCollision.cs" />
+        <option value="$PROJECT_DIR$/Player/Fr/autoDestruction.cs" />
+        <option value="$PROJECT_DIR$/Player/Fr/checkItem.cs" />
+        <option value="$PROJECT_DIR$/Player/Fr/CharacterMotor.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1buqK2lFR239KYSxnM5oGfNYh9I" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="143" y="0" key="SettingsEditor" timestamp="1589651893866">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="143" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1589651893866" />
+    <state x="643" y="0" width="637" height="680" key="find.popup" timestamp="1589524075780">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="643" y="0" width="637" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1589524075780" />
+    <state x="307" y="4" width="672" height="678" key="search.everywhere.popup" timestamp="1589647815202">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="307" y="4" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1589647815202" />
+  </component>
+</project>
